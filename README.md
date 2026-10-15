@@ -22,3 +22,43 @@ Styling: CSS3 / Modern Styling
 API: Frankfurter API (Open-source API for current and historical foreign exchange rates)
 
 Deployment: Netlify (global-currency-watch.netlify.app)
+
+🚀 Getting Started Locally
+To run this project on your local machine for development or testing, follow these simple steps:
+
+Prerequisites
+Make sure you have Node.js installed on your computer.
+
+Installation
+Clone the repository:
+
+Bash
+git clone https://github.com/your-username/global-currency-watch.git
+Navigate to the project directory:
+
+Bash
+cd global-currency-watch
+Install dependencies:
+
+Bash
+npm install
+Run the development server:
+
+Bash
+npm run dev
+Open your browser and go to the local address provided in your terminal (usually http://localhost:5173).
+
+🌐 Live Demo
+Check out the live application hosted on Netlify:
+
+👉 global-currency-watch.netlify.app
+
+💡 Future Enhancements
+[ ] Add support for cryptocurrency conversion rates.
+
+[ ] Implement dark/light mode toggle.
+
+[ ] Save favorite currency pairs for quick access.
+
+📄 License
+This project is open-source and available under the MIT License.
